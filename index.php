@@ -6,7 +6,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;800&display=swap" rel="stylesheet">
 </head>
 <body>
-	<p><b>HA</b><b style="color: #267151;">PINO</b>WORRIES</p>
+	<p>HA<b style="color: #267151;">PINO</b>WORRIES</p>
 	<img src="d4dendel (1).jpg">
 	<img src="d4dendel (2).jpg">
 	<img src="d4dendel (3).jpg">
