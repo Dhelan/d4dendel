@@ -59,11 +59,10 @@
 	</nav>
 	<!-- First Container -->
 	<div class="container-fluid container-fluid-1 bg-1 flex-center" style="padd-top: 80px;">
-		<h1 class="h1-responsive font-weight-bold wow fadeInLeft" data-wow-delay="0.3s">Welcome</h1>
 		<div class="row pt-5 mt-3">
-		    <div class="col-lg-6 wow fadeIn mb-5 text-center text-lg-left">
+		    <div class="col-lg-4 wow fadeIn mb-5 text-center text-lg-left">
 		      <div class="white-text">
-			<img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="250" height="250">
+			<h1 class="h1-responsive font-weight-bold wow fadeInLeft" data-wow-delay="0.3s">Welcome</h1>
 			<hr class="hr-light wow fadeInLeft" data-wow-delay="0.3s">
 			<p class="wow fadeInLeft" data-wow-delay="0.3s">Connect with us by liking and following our facebook page, surely we can have an exciting adventure together</p>
 			<br>
@@ -82,6 +81,7 @@
 	<!-- Second Container -->
 	<div class="container-fluid container-fluid-1 bg-2 text-center">
 	  <h3 class="margin">What Am I?</h3>
+	  <img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="250" height="250">
 	  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
 	  <a href="#" class="btn btn-default btn-lg">
 	    <span class="glyphicon glyphicon-search"></span> Search
