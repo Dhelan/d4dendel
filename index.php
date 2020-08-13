@@ -38,7 +38,7 @@
 	<!-- First Container -->
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-12>
+			<div class="col-lg-12">
 				    <div id="content">
 					<img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="250" height="250">
 					<h1 class="h1-responsive font-weight-bold wow fadeInLeft" data-wow-delay="0.3s">Welcome</h1>
