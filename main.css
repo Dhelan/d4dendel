@@ -1,12 +1,9 @@
 #homepage{
   background: url(DSC02970.JPG);
-  backgroud-size: cover;
+  backgroud-size: 100% 100%;
   background-position: center;
   font-family: Raleway;
   color: white;
-}
-html{
-  height: 100%;
 }
 #content{
   text-align: center;
