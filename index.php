@@ -75,7 +75,6 @@
 	    <video poster="https://mdbootstrap.com/img/Photos/Others/background.jpg" playsinline autoplay muted loop>
 	      <source src="https://mdbootstrap.com/img/video/animation.mp4" type="video/mp4">
 	    </video>
-	    <div class="hm-gradient">
 	      <div class="full-bg-img">
 		<div class="container flex-center">
 		  <div class="row pt-5 mt-3">
@@ -101,7 +100,6 @@
 		  </div>
 		</div>
 	      </div>
-	    </div>
 	  </section>
 	<!-- First Container -->
 	<div class="container-fluid container-fluid-1 bg-1 flex-center">
