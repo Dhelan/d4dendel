@@ -41,6 +41,7 @@
 	    padding-bottom: 70px;
 	  }
 	.topnav {
+	  z-index: 1;
 	  overflow: hidden;
 	  background-color: #333;
 	}
