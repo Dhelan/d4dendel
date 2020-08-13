@@ -42,10 +42,6 @@
 	    padding-top: 70px;
 	    padding-bottom: 70px;
 	  }
-	  #content{
-	    text-align: center;
-	    padding-top: 25%;
-	  }
 	 </style>
 </head>
 <body>
