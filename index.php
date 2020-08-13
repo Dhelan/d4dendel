@@ -93,23 +93,15 @@
 	</style>
 </head>
 <body>
-	<nav class="navbar navbar-default navbar-fixed-top top-nav" id="myTopnav">
-	  <div class="container-fluid">
-	    
-	    <div class="navbar-header">
-	      <a class="navbar-brand" href="index.php"><p>HA<b style="color: #267151;">PINO</b>WORRIES</p></a>
-	    </div>
-	    <ul class="nav navbar-nav">
-	      <li class="active"><a href="index.php">HOME</a></li>
-	      <li><a href="blog.php">BLOG</a></li>
-	      <li><a href="gallery.php">GALLERY</a></li>
-	      <li><a href="about.php">ABOUT</a></li>
-	      <li><a href="javascript:void(0);" class="icon" onclick="myFunction()">
-	        <i class="fa fa-bars"></i>
-		      </a></li>
-	    </ul>
-	  </div>
-	</nav>
+	<div class="topnav" id="myTopnav">
+	  <a href="index.php" class="active">HA<b style="color: #267151;">PINO</b>WORRIES</a>
+	  <a href="blog.php">BLOG</a>
+	  <a href="gallery.php">GALLERY</a>
+	  <a href="#about">ABOUT</a>
+	  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+	    <i class="fa fa-bars"></i>
+	  </a>
+	</div>
 	<!-- First Container -->
 	<div class="container-fluid container-fluid-1 bg-1 text-center" >
 		<div class="row">
