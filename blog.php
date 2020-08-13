@@ -3,6 +3,15 @@
 <head>
 	<title>Hapinoworries</title>
 	<link rel="stylesheet" type="text/css" href="blog.css">
+	<link rel="stylesheet" type="text/css" href="photos.css">
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
 	<div>
@@ -20,10 +29,10 @@
 	      <a class="navbar-brand" href="#">HAPINOWORRIES</a>
 	    </div>
 	    <ul class="nav navbar-nav">
-	      <li><a href="#">HOME</a></li>
+	      <li><a href="index.php">HOME</a></li>
 	      <li class="active"><a href="#">BLOG</a></li>
-	      <li><a href="#">GALLERY</a></li>
-	      <li><a href="#">ABOUT</a></li>
+	      <li><a href="gallery.php">GALLERY</a></li>
+	      <li><a href="about.php">ABOUT</a></li>
 	    </ul>
 	  </div>
 	</nav>
