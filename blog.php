@@ -28,10 +28,12 @@
 	  </div>
 	</nav>
 	<div class = "container">
-		<h2>The HTML code that I used in this blog page</h2>
-		<p>This is the article paragraph that I use to make this sample blog article, and bellow this paragraph is where you can see my html code for this blog that you are seeing.</p>
-		<h2>The HTML code that I used in this blog page</h2>
-		<p>Bellow is the css code that I used in making this blog article.</p>
+		<div class="post">
+			<h2>The HTML code that I used in this blog page</h2>
+			<p>This is the article paragraph that I use to make this sample blog article, and bellow this paragraph is where you can see my html code for this blog that you are seeing.</p>
+			<h2>The HTML code that I used in this blog page</h2>
+			<p>Bellow is the css code that I used in making this blog article.</p>
+		</div>
 	</div>
 </body>
 </html>
