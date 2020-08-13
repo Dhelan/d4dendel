@@ -41,6 +41,7 @@
 			</center>
 			<p><b>Memory Text: </b>“So shall My word be that goes forth from My mouth; it shall not return to Me void, but it shall accomplish what I please, and it shall prosper in the thing for which I sent it” <b>(Isaiah 55:11, NKJV).</b></q></p?
 		</div>
+		<hr>
 		<div class="post">
 			<div class="date">Sunday | August 9</div>
 			<h2>Symbols of God’s Word</h2>
@@ -54,6 +55,7 @@
 
 			<p><b>Again, think about the truths that we know only from the Bible. What should this tell us about how much we should treasure what it teaches us?</b></p>
 		</div>
+		<hr>
 		<div class="post">
 			<div class="date">Monday | August 10</div>
 			<h2>Symbols of God’s Word</h2>
@@ -69,6 +71,7 @@
 
 			<b>Imagine: God spoke and it was. How can we grasp what this means? What does this amazing reality tell us about His power? Why should this truth about God’s creative power be comforting to us?</b></p>
 		</div>
+		<hr>
 		</div>
 		<div class="col-sm-2">
 			<h5>Right</left>
