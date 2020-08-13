@@ -28,7 +28,7 @@
 	  </div>
 	</nav>
 	
-	<div class = "container">
+	<div class = "container" style="padding-top: 50px;">
 		<div class="col-sm-2">
 			<h5>Left</left>
 		</div>
