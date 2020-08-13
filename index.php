@@ -58,10 +58,25 @@
 	  </div>
 	</nav>
 	<!-- First Container -->
-	<div class="container-fluid container-fluid-1 bg-1 text-center">
-	  <h3 class="margin">Who Am I?</h3>
-	  <img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="350" height="350">
-	  <h3>I'm an adventurer</h3>
+	<div class="container-fluid container-fluid-1 bg-1">
+		<div class="row pt-5 mt-3">
+		    <div class="col-lg-6 wow fadeIn mb-5 text-center text-lg-left">
+		      <div class="white-text">
+			<h1 class="h1-responsive font-weight-bold wow fadeInLeft" data-wow-delay="0.3s">Learn more about us</h1>
+			 <img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="350" height="350">
+			<hr class="hr-light wow fadeInLeft" data-wow-delay="0.3s">
+			<p class="wow fadeInLeft" data-wow-delay="0.3s">Connect with us by liking and following our facebook page, surely we can have an exciting adventure together</p>
+			<br>
+			<a href="https://www.facebook.com/d4dendel" class="btn btn-outline-white wow fadeInLeft" data-wow-delay="0.3s">Follow us</a>
+		      </div>
+		    </div>
+
+		    <div class="col-lg-6 wow fadeIn">
+		      <div class="embed-responsive embed-responsive-16by9 wow fadeInRight">
+			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f2cCLH0c40s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		      </div>
+		    </div>
+		  </div>
 	</div>
 
 	<!-- Second Container -->
