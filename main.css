@@ -49,7 +49,7 @@ hr{
 	.topnav a:hover {
 	  background-color: #ddd;
 	  color: black;
-	  text-decoratione: none;
+	  text-decoration: none;
 	}
 	.topnav a.active {
 	  background-color: #f97137;
