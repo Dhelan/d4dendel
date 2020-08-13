@@ -18,7 +18,7 @@
 	      <a class="navbar-brand" href="index.php"><p>HA<b style="color: #267151;">PINO</b>WORRIES</p></a>
 	    </div>
 	    <ul class="nav navbar-nav">
-	      <li><a href="#">HOME</a></li>
+	      <li><a href="index.php">HOME</a></li>
 	      <li><a href="blog.php">BLOG</a></li>
 	      <li class="active"><a href="gallery.php">GALLERY</a></li>
 	      <li><a href="about.php">ABOUT</a></li>
