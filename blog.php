@@ -29,7 +29,10 @@
 	</nav>
 	
 	<div class = "container">
-		<div class="col-sm-9">
+		<div class="col-sm-2">
+			<h5>Left</left>
+		</div>
+		<div class="col-sm-8">
 		<div class="post span-8">
 			<div class="date">THIS WEEK</div>
 			<h1>LESSON 7 | Sharing the Word</h1>
@@ -64,6 +67,9 @@
 
 			<b>Imagine: God spoke and it was. How can we grasp what this means? What does this amazing reality tell us about His power? Why should this truth about God’s creative power be comforting to us?</b></p>
 		</div>
+		</div>
+		<div class="col-sm-2">
+			<h5>Right</left>
 		</div>
 	</div>
 </body>
