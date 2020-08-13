@@ -36,13 +36,13 @@
 	    background-color: #2f2f2f; /* Black Gray */
 	    color: #fff;
 	  }
-	  .container-fluid {
+	  .container-fluid-1 {
 	    padding-top: 70px;
 	    padding-bottom: 70px;
 	  }
 	</style>
 </head>
-<body>
+<body id="homepage">
 	<nav class="navbar navbar-default navbar-fixed-top">
 	  <div class="container-fluid">
 	    <div class="navbar-header">
@@ -57,7 +57,7 @@
 	  </div>
 	</nav>
 	<!-- First Container -->
-	<div class="container" id="homepage">
+	<div class="container" >
 		<div class="row">
 			<div class="col-lg-12">
 				<div id="content">
