@@ -41,6 +41,19 @@
 	    padding-top: 70px;
 	    padding-bottom: 70px;
 	  }
+	.hm-gradient .full-bg-img {
+	    background: -moz-linear-gradient(45deg, rgba(242, 34, 50, 0.5), rgba(255, 187, 54, 0.6) 100%);
+	    background: -webkit-linear-gradient(45deg, rgba(242, 34, 50, 0.5), rgba(255, 187, 54, 0.6) 100%);
+	    background: linear-gradient(to 45deg, rgba(29, 236, 197, 0.4), rgba(96, 0, 136, 0.4) 100%);
+	}
+	@media (max-width: 740px) {
+	    .full-height,
+	    .full-height body,
+	    .full-height header,
+	    .full-height header .view {
+		height: 700px;
+	    }
+	}
 	 </style>
 </head>
 <body>
