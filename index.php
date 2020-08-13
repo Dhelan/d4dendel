@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>Dendel Pino</title>
 	<meta charset="utf-8">
@@ -37,7 +37,7 @@
 	    background-color: #2f2f2f; /* Black Gray */
 	    color: #fff;
 	  }
-	  .container-fluid {
+	  .container-fluid-1 {
 	    padding-top: 70px;
 	    padding-bottom: 70px;
 	  }
@@ -58,14 +58,14 @@
 	  </div>
 	</nav>
 	<!-- First Container -->
-	<div class="container-fluid bg-1 text-center">
+	<div class="container-fluid container-fluid-1 bg-1 text-center">
 	  <h3 class="margin">Who Am I?</h3>
 	  <img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="350" height="350">
 	  <h3>I'm an adventurer</h3>
 	</div>
 
 	<!-- Second Container -->
-	<div class="container-fluid bg-2 text-center">
+	<div class="container-fluid container-fluid-1 bg-2 text-center">
 	  <h3 class="margin">What Am I?</h3>
 	  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
 	  <a href="#" class="btn btn-default btn-lg">
@@ -74,7 +74,7 @@
 	</div>
 
 	<!-- Third Container (Grid) -->
-	<div class="container-fluid bg-3 text-center">    
+	<div class="container-fluid container-fluid-1 bg-3 text-center">    
 	  <h3 class="margin">Where To Find Me?</h3><br>
 	  <div class="row">
 	    <div class="col-sm-4">
@@ -93,7 +93,7 @@
 	</div>
 
 	<!-- Footer -->
-	<footer class="container-fluid bg-4 text-center">
+	<footer class="container-fluid container-fluid-1 bg-4 text-center">
 	  <p>Bootstrap Theme Made By <a href="https://www.w3schools.com">www.w3schools.com</a></p> 
 	</footer>
 </body>
