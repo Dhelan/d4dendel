@@ -59,7 +59,7 @@
 	</nav>
 	<!-- First Container -->
 	<div class="container-fluid container-fluid-1 bg-1 flex-center" style="padd-top: 80px;">
-		<div class="row pt-5 mt-3">
+		<div class="row pt-5 mt-3 flex-center">
 		    <div class="col-lg-4 wow fadeIn mb-5 text-center text-lg-left">
 		      <div class="white-text">
 			<h1 class="h1-responsive font-weight-bold wow fadeInLeft" data-wow-delay="0.3s">Welcome</h1>
