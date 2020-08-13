@@ -58,12 +58,12 @@
 	  </div>
 	</nav>
 	<!-- First Container -->
-	<div class="container-fluid container-fluid-1 bg-1">
+	<div class="container-fluid container-fluid-1 bg-1 flex-center">
 		<div class="row pt-5 mt-3">
 		    <div class="col-lg-6 wow fadeIn mb-5 text-center text-lg-left">
 		      <div class="white-text">
 			<h1 class="h1-responsive font-weight-bold wow fadeInLeft" data-wow-delay="0.3s">Learn more about us</h1>
-			 <img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="350" height="350">
+			 <img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="250" height="250">
 			<hr class="hr-light wow fadeInLeft" data-wow-delay="0.3s">
 			<p class="wow fadeInLeft" data-wow-delay="0.3s">Connect with us by liking and following our facebook page, surely we can have an exciting adventure together</p>
 			<br>
