@@ -162,5 +162,15 @@
 	<footer class="container-fluid container-fluid-1 bg-4 text-center">
 	  <p>Bootstrap Theme Made By <a href="https://www.w3schools.com">www.w3schools.com</a></p> 
 	</footer>
+	<script>
+	function myFunction() {
+	  var x = document.getElementById("myTopnav");
+	  if (x.className === "topnav") {
+	    x.className += " responsive";
+	  } else {
+	    x.className = "topnav";
+	  }
+	}
+	</script>
 </body>
 </html>
