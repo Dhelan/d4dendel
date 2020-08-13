@@ -39,7 +39,7 @@
 			<center>
 				<img src="gless07.jpg" alt="Girl in a jacket" width="500">
 			</center>
-			<p><b>Memory Text: </b>“So shall My word be that goes forth from My mouth; it shall not return to Me void, but it shall accomplish what I please, and it shall prosper in the thing for which I sent it” <b>(Isaiah 55:11, NKJV).</b></q></p?
+			<p><b>Memory Text: </b><i>“So shall My word be that goes forth from My mouth; it shall not return to Me void, but it shall accomplish what I please, and it shall prosper in the thing for which I sent it”</i><b>(Isaiah 55:11, NKJV).</b></q></p?
 		</div>
 		<hr>
 		<div class="post">
