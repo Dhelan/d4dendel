@@ -27,8 +27,10 @@
 	    </ul>
 	  </div>
 	</nav>
+	
 	<div class = "container">
-		<div class="post">
+		<div class="col-sm-9">
+		<div class="post span-8">
 			<div class="date">THIS WEEK</div>
 			<h1>LESSON 7 | Sharing the Word</h1>
 			<p><b>Memory Text: </b>“So shall My word be that goes forth from My mouth; it shall not return to Me void, but it shall accomplish what I please, and it shall prosper in the thing for which I sent it” <b>(Isaiah 55:11, NKJV).</b></q></p?
@@ -61,6 +63,7 @@
 			As we personally grasp the promises found in the Word of God, our lives are changed, and as we help others to grasp these amazing promises, the Holy Spirit will change their lives, too.
 
 			<b>Imagine: God spoke and it was. How can we grasp what this means? What does this amazing reality tell us about His power? Why should this truth about God’s creative power be comforting to us?</b></p>
+		</div>
 		</div>
 	</div>
 </body>
