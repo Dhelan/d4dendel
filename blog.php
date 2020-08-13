@@ -34,10 +34,10 @@
 		</div>
 		<div class="col-sm-8">
 		<div class="post span-8">
-			<div class="date">THIS WEEK</div>
-			<h1>LESSON 7 | Sharing the Word</h1>
+			<h2 class="date">LESSON 7 | August 8-14</h2>
+			<h1>Sharing the Word</h1>
+			<img src="gless07.jpg" alt="Girl in a jacket" width="500" height="600">
 			<p><b>Memory Text: </b>“So shall My word be that goes forth from My mouth; it shall not return to Me void, but it shall accomplish what I please, and it shall prosper in the thing for which I sent it” <b>(Isaiah 55:11, NKJV).</b></q></p?
-			<img src="">
 		</div>
 		<div class="post">
 			<div class="date">Sunday | August 9</div>
