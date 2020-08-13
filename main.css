@@ -1,7 +1,6 @@
-body{
+#homepage{
   background: url(DSC02970.JPG);
-  backgroud-size: auto;
-  background-repeat: no-repeat;
+  backgroud-size: cover;
   background-position: center;
   font-family: Raleway;
   color: white;
