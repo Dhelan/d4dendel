@@ -41,6 +41,10 @@
 	    padding-top: 70px;
 	    padding-bottom: 70px;
 	  }
+	  #content{
+	    text-align: center;
+	    padding-top: 25%;
+	  }
 	 </style>
 </head>
 <body>
@@ -58,30 +62,28 @@
 	  </div>
 	</nav>
 	<!-- First Container -->
-	<div class="container-fluid container-fluid-1 bg-1 flex-center" style="padd-top: 80px;">
-		<div class="row pt-5 mt-3 flex-center">
-		    <div class="col-lg-4 wow fadeIn mb-5 text-center text-lg-left">
-		      <div class="white-text">
-			<h1 class="h1-responsive font-weight-bold wow fadeInLeft" data-wow-delay="0.3s">Welcome</h1>
-			<hr class="hr-light wow fadeInLeft" data-wow-delay="0.3s">
-			<p class="wow fadeInLeft" data-wow-delay="0.3s">Connect with us by liking and following our facebook page, surely we can have an exciting adventure together</p>
-			<br>
-			<a href="https://www.facebook.com/d4dendel" class="btn btn-default fadeInLeft" data-wow-delay="0.3s">Follow us</a>
-		      </div>
-		    </div>
-
-		    <div class="col-lg-4 wow fadeIn">
-		      <div class="embed-responsive embed-responsive-16by9 wow fadeInRight">
-			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f2cCLH0c40s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		      </div>
-		    </div>
-		  </div>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12>
+				    <div id="content">
+					<img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="250" height="250">
+					<h1 class="h1-responsive font-weight-bold wow fadeInLeft" data-wow-delay="0.3s">Welcome</h1>
+					<h3>Connect with us by liking and following our facebook page, surely we can have an exciting adventure together</h3>
+					<hr>
+					<a href="https://www.facebook.com/d4dendel" class="btn btn-default fadeInLeft" data-wow-delay="0.3s">Follow us</a>
+				</div>							       
+			</div>
+		</div>
 	</div>
-
+																	    
 	<!-- Second Container -->
 	<div class="container-fluid container-fluid-1 bg-2 text-center">
 	  <h3 class="margin">What Am I?</h3>
-	  <img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="250" height="250">
+			    <div class="col-lg-4 wow fadeIn">
+			      <div class="embed-responsive embed-responsive-16by9 wow fadeInRight">
+				<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f2cCLH0c40s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			      </div>
+			    </div>
 	  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
 	  <a href="#" class="btn btn-default btn-lg">
 	    <span class="glyphicon glyphicon-search"></span> Search
