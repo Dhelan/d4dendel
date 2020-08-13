@@ -41,7 +41,7 @@
 	    padding-bottom: 70px;
 	  }
 	.topnav {
-	  z-index: 1;
+	  z-index: 3;
 	  overflow: hidden;
 	  background-color: #333;
 	}
@@ -91,6 +91,9 @@
 	    text-align: left;
 	  }
 	}
+	#container1 video{
+		z-index: -1;	
+	}
 	</style>
 </head>
 <body>
@@ -104,13 +107,12 @@
 	  </a>
 	</div>
 	<!-- First Container -->
-	
-	<div class="container-fluid container-fluid-1 text-center" >
-		<div class="row">
+	<div class="container-fluid container-fluid-1 text-center" id="container1">
 		<!-- The video -->
-			<video autoplay muted loop id="myVideo">
-			  <source src="XP-Pen Artist 15.6 Graphics Display - Reveal Your True Colors 2.mp4" type="video/mp4">
-			</video>
+		<video autoplay muted loop id="myVideo">
+			<source src="XP-Pen Artist 15.6 Graphics Display - Reveal Your True Colors 2.mp4" type="video/mp4">
+		</video>
+		<div class="row">
 			<div class="col-lg-12">
 				<div id="content">
 					<img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="HAPI" width="250" height="250">
