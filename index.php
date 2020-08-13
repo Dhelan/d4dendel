@@ -42,7 +42,7 @@
 	  }
 	</style>
 </head>
-<body id="homepage">
+<body>
 	<nav class="navbar navbar-default navbar-fixed-top">
 	  <div class="container-fluid">
 	    <div class="navbar-header">
@@ -57,7 +57,7 @@
 	  </div>
 	</nav>
 	<!-- First Container -->
-	<div class="container" >
+	<div class="container-fluid container-fluid-1 bg-2 text-center" >
 		<div class="row">
 			<div class="col-lg-12">
 				<div id="content">
