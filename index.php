@@ -106,9 +106,11 @@
 		text-decoration: none;
 		display: inline-block;
 		font-size: 16px; 
+		border-radius: 5px;
 	}
 	.button:hover {
 	  	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+		opacity: 1;
 	}
 	</style>
 </head>
@@ -134,8 +136,8 @@
 					<img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="HAPI" width="250" height="250">
 					<h2 id="wc" data-wow-delay="0.3s">HA<b style="color: #f97137;">PINO</b>WORRIES</h2>
 					<center><h4 style="width: 40%;">Connect with us by liking and following our facebook page, surely we can have an exciting adventure together!</h4></center>
-					<hr>
-					<a href="https://www.facebook.com/d4dendel"><button class="button"><span class="glyphicon glyphicon-pencil"></span>Follow us</button></a>
+					<hr style="color: #000;">
+					<a href="https://www.facebook.com/d4dendel"><button class="button"><span class="glyphicon glyphicon-pencil"></span> <b>Follow us</b></button></a>
 				</div>							       
 			</div>
 		</div>
