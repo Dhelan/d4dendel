@@ -145,16 +145,20 @@
 																	    
 	<!-- Second Container -->
 	<div class="container-fluid container-fluid-1 bg-2 text-center">
-	  <h3 class="margin">What Am I?</h3>
-	  <div class="col-lg-4 wow fadeIn">
-		<div class="embed-responsive embed-responsive-16by9 wow fadeInRight">
-			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f2cCLH0c40s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<h3 class="margin">What Am I?</h3>
+		<div class="row">
+		  <div class="col-lg-6 wow fadeIn">
+			  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+			  <a href="#" class="btn btn-default btn-lg">
+			    <span class="glyphicon glyphicon-search"></span> Search
+			  </a>
+		  </div>
+		  <div class="col-lg-6 wow fadeIN">
+			  <div class="embed-responsive embed-responsive-16by9 wow fadeInRight">
+				<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f2cCLH0c40s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			  </div>
+		  </div>
 		</div>
-	  </div>
-	  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-	  <a href="#" class="btn btn-default btn-lg">
-	    <span class="glyphicon glyphicon-search"></span> Search
-	  </a>
 	</div>
 
 	<!-- Third Container (Grid) -->
