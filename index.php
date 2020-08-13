@@ -60,7 +60,7 @@
 			<div class="col-lg-12">
 				<div id="content">
 					<img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="250" height="250">
-					<h1 class="h1-responsive font-weight-bold wow fadeInLeft" data-wow-delay="0.3s">Welcome</h1>
+					<h1 id="wc" data-wow-delay="0.3s">HA<b>PINO</b>WORRIES</h1>
 					<h3>Connect with us by liking and following our facebook page, surely we can have an exciting adventure together</h3>
 					<hr>
 					<a href="https://www.facebook.com/d4dendel" class="btn btn-default fadeInLeft" data-wow-delay="0.3s">Follow us</a>
