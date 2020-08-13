@@ -14,14 +14,12 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 	<style>  
 	  body {
-	    font: 20px Montserrat, sans-serif;
+	    font-family: Raleway;
 	    line-height: 1.8;
-	    color: #f5f6f7;
 	  }
-	  p {font-size: 16px;}
 	  .margin {margin-bottom: 45px;}
 	  .bg-1 { 
-	    background-color: #1abc9c; /* Green */
+	    background-color: #267151; /* Green */
 	    color: #ffffff;
 	  }
 	  .bg-2 { 
@@ -57,7 +55,7 @@
 	  </div>
 	</nav>
 	<!-- First Container -->
-	<div class="container-fluid container-fluid-1 bg-2 text-center" >
+	<div class="container-fluid container-fluid-1 bg-1 text-center" >
 		<div class="row">
 			<div class="col-lg-12">
 				<div id="content">
