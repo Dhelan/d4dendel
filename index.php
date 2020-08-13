@@ -40,57 +40,6 @@
 	    padding-top: 70px;
 	    padding-bottom: 70px;
 	  }
-	.topnav {
-	  z-index: 3;
-	  overflow: hidden;
-	  background-color: #333;
-	}
-
-	.topnav a {
-	  float: left;
-	  display: block;
-	  color: #f2f2f2;
-	  text-align: center;
-	  padding: 14px 16px;
-	  text-decoration: none;
-	  font-size: 17px;
-	}
-
-	.topnav a:hover {
-	  background-color: #ddd;
-	  color: black;
-	}
-
-	.topnav a.active {
-	  background-color: #f97137;
-	  color: white;
-	}
-
-	.topnav .icon {
-	  display: none;
-	}
-
-	@media screen and (max-width: 600px) {
-	  .topnav a:not(:first-child) {display: none;}
-	  .topnav a.icon {
-	    float: right;
-	    display: block;
-	  }
-	}
-
-	@media screen and (max-width: 600px) {
-	  .topnav.responsive {position: relative;}
-	  .topnav.responsive .icon {
-	    position: absolute;
-	    right: 0;
-	    top: 0;
-	  }
-	  .topnav.responsive a {
-	    float: none;
-	    display: block;
-	    text-align: left;
-	  }
-	}
 	#container1{
 		padding-top: 20px;
 	}
@@ -115,15 +64,7 @@
 	</style>
 </head>
 <body>
-	<div class="topnav" id="myTopnav">
-	  <a href="index.php" class="active">HA<b>PINO</b>WORRIES</a>
-	  <a href="blog.php">BLOG</a>
-	  <a href="gallery.php">GALLERY</a>
-	  <a href="#about">ABOUT</a>
-	  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-	    <i class="fa fa-bars"></i>
-	  </a>
-	</div>
+	<?php include 'header.php'; ?>
 	<!-- First Container -->
 	<div class="container-fluid container-fluid-1 text-center" id="container1">
 		<!-- The video -->
