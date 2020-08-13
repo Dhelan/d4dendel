@@ -93,7 +93,20 @@
 	}
 	#container1 video{
 		z-index: -1;	
-		padding-top: 40px;
+		padding-top: 20px;
+	}
+	.button{
+  		background-color: #f97137;
+		border: none;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px; 
+	}
+	.button:hover {
+	  	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 	}
 	</style>
 </head>
@@ -118,9 +131,9 @@
 				<div id="content">
 					<img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="HAPI" width="250" height="250">
 					<h2 id="wc" data-wow-delay="0.3s">HA<b style="color: #f97137;">PINO</b>WORRIES</h2>
-					<h4 style="width: 30%;">Connect with us by liking and following our facebook page, surely we can have an exciting adventure together</h4>
+					<center><h4 style="width: 30%;">Connect with us by liking and following our facebook page, surely we can have an exciting adventure together</h4></center>
 					<hr>
-					<a href="https://www.facebook.com/d4dendel" class="btn btn-default fadeInLeft" data-wow-delay="0.3s">Follow us</a>
+					<button class="button"><a href="https://www.facebook.com/d4dendel">Follow us</a></button>
 				</div>							       
 			</div>
 		</div>
