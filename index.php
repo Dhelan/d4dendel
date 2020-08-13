@@ -27,7 +27,7 @@
 	    </ul>
 	  </div>
 	</nav>
-	<div class="container">
+	<div class="container" style="padding-top: 70px;">
 	   <img src="d4dendel (1).jpg">
 	   <img src="d4dendel (2).jpg">
 	   <img src="d4dendel (3).jpg">
