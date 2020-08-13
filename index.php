@@ -12,6 +12,8 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<!-- Latest compiled JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	<!-- Load an icon library to show a hamburger menu (bars) on small screens -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<style>  
 	  body {
 	    font-family: Raleway;
@@ -38,11 +40,62 @@
 	    padding-top: 70px;
 	    padding-bottom: 70px;
 	  }
+	.topnav {
+	  overflow: hidden;
+	  background-color: #333;
+	}
+
+	.topnav a {
+	  float: left;
+	  display: block;
+	  color: #f2f2f2;
+	  text-align: center;
+	  padding: 14px 16px;
+	  text-decoration: none;
+	  font-size: 17px;
+	}
+
+	.topnav a:hover {
+	  background-color: #ddd;
+	  color: black;
+	}
+
+	.topnav a.active {
+	  background-color: #4CAF50;
+	  color: white;
+	}
+
+	.topnav .icon {
+	  display: none;
+	}
+
+	@media screen and (max-width: 600px) {
+	  .topnav a:not(:first-child) {display: none;}
+	  .topnav a.icon {
+	    float: right;
+	    display: block;
+	  }
+	}
+
+	@media screen and (max-width: 600px) {
+	  .topnav.responsive {position: relative;}
+	  .topnav.responsive .icon {
+	    position: absolute;
+	    right: 0;
+	    top: 0;
+	  }
+	  .topnav.responsive a {
+	    float: none;
+	    display: block;
+	    text-align: left;
+	  }
+	}
 	</style>
 </head>
 <body>
-	<nav class="navbar navbar-default navbar-fixed-top">
+	<nav class="navbar navbar-default navbar-fixed-top top-nav" id="myTopnav">
 	  <div class="container-fluid">
+	    
 	    <div class="navbar-header">
 	      <a class="navbar-brand" href="index.php"><p>HA<b style="color: #267151;">PINO</b>WORRIES</p></a>
 	    </div>
@@ -51,6 +104,9 @@
 	      <li><a href="blog.php">BLOG</a></li>
 	      <li><a href="gallery.php">GALLERY</a></li>
 	      <li><a href="about.php">ABOUT</a></li>
+	      <li><a href="javascript:void(0);" class="icon" onclick="myFunction()">
+	        <i class="fa fa-bars"></i>
+		      </a></li>
 	    </ul>
 	  </div>
 	</nav>
