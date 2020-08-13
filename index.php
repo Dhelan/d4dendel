@@ -8,10 +8,8 @@
 	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;800&display=swap" rel="stylesheet">
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-
 	<!-- jQuery library -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-
 	<!-- Latest compiled JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 	<style>
@@ -19,7 +17,7 @@
 	    padding-top: 70px;
 	    padding-bottom: 70px;
 	  }
-	 </style>
+	</style>
 </head>
 <body>
 	<nav class="navbar navbar-default navbar-fixed-top">
@@ -39,7 +37,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				    <div id="content">
+				<div id="content">
 					<img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="250" height="250">
 					<h1 class="h1-responsive font-weight-bold wow fadeInLeft" data-wow-delay="0.3s">Welcome</h1>
 					<h3>Connect with us by liking and following our facebook page, surely we can have an exciting adventure together</h3>
