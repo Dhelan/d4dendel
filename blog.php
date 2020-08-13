@@ -28,7 +28,7 @@
 	  </div>
 	</nav>
 	
-	<div class = "container" style="padding-top: 50px;">
+	<div class = "container" style="padding-top: 70px;">
 		<div class="col-sm-2">
 			<h5>Left</left>
 		</div>
@@ -36,7 +36,7 @@
 		<div class="post span-8">
 			<h2 class="date">LESSON 7 | August 8-14</h2>
 			<h1>Sharing the Word</h1>
-			<img src="gless07.jpg" alt="Girl in a jacket" width="500" height="600">
+			<img src="gless07.jpg" alt="Girl in a jacket" width="500">
 			<p><b>Memory Text: </b>“So shall My word be that goes forth from My mouth; it shall not return to Me void, but it shall accomplish what I please, and it shall prosper in the thing for which I sent it” <b>(Isaiah 55:11, NKJV).</b></q></p?
 		</div>
 		<div class="post">
