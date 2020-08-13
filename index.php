@@ -93,12 +93,13 @@
 	}
 	#container1 video{
 		z-index: -1;	
+		padding-top: 40px;
 	}
 	</style>
 </head>
 <body>
 	<div class="topnav" id="myTopnav">
-	  <a href="index.php" class="active">HA<b style="color: #267151;">PINO</b>WORRIES</a>
+	  <a href="index.php" class="active">HA<b>PINO</b>WORRIES</a>
 	  <a href="blog.php">BLOG</a>
 	  <a href="gallery.php">GALLERY</a>
 	  <a href="#about">ABOUT</a>
@@ -116,8 +117,8 @@
 			<div class="col-lg-12">
 				<div id="content">
 					<img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="HAPI" width="250" height="250">
-					<h1 id="wc" data-wow-delay="0.3s">HA<b>PINO</b>WORRIES</h1>
-					<h3>Connect with us by liking and following our facebook page, surely we can have an exciting adventure together</h3>
+					<h2 id="wc" data-wow-delay="0.3s">HA<b style="color: #f97137;">PINO</b>WORRIES</h2>
+					<h4 style="width: 30%;">Connect with us by liking and following our facebook page, surely we can have an exciting adventure together</h4>
 					<hr>
 					<a href="https://www.facebook.com/d4dendel" class="btn btn-default fadeInLeft" data-wow-delay="0.3s">Follow us</a>
 				</div>							       
