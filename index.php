@@ -57,6 +57,39 @@
 	    </ul>
 	  </div>
 	</nav>
+	<!--Intro Section-->
+	  <section class="view intro-video">
+	    <video poster="https://mdbootstrap.com/img/Photos/Others/background.jpg" playsinline autoplay muted loop>
+	      <source src="https://mdbootstrap.com/img/video/animation.mp4" type="video/mp4">
+	    </video>
+	    <div class="hm-gradient">
+	      <div class="full-bg-img">
+		<div class="container flex-center">
+		  <div class="row pt-5 mt-3">
+		    <div class="col-lg-6 wow fadeIn mb-5 text-center text-lg-left">
+		      <div class="white-text">
+			<h1 class="h1-responsive font-weight-bold wow fadeInLeft" data-wow-delay="0.3s">Lorem ipsum
+			  dolor sit amet</h1>
+			<hr class="hr-light wow fadeInLeft" data-wow-delay="0.3s">
+			<p class="wow fadeInLeft" data-wow-delay="0.3s">Lorem ipsum dolor sit amet, consectetur
+			  adipisicing elit. Rem repellendus quasi fuga nesciunt dolorum nulla magnam veniam sapiente,
+			  fugiat! Commodi sequi non animi ea dolor molestiae, quisquam iste, maiores. Nulla.</p>
+			<br>
+			<a class="btn btn-outline-white wow fadeInLeft" data-wow-delay="0.3s">Just do it!</a>
+		      </div>
+		    </div>
+
+		    <div class="col-lg-6 wow fadeIn">
+		      <div class="embed-responsive embed-responsive-16by9 wow fadeInRight">
+			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f2cCLH0c40s"
+			  allowfullscreen></iframe>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+	      </div>
+	    </div>
+	  </section>
 	<!-- First Container -->
 	<div class="container-fluid container-fluid-1 bg-1 flex-center">
 		<div class="row pt-5 mt-3">
