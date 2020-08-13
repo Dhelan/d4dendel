@@ -15,29 +15,6 @@
 	<!-- Latest compiled JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 	<style>
-	  body {
-	    font-family: Raleway;
-	    line-height: 1.8;
-	    color: #f5f6f7;
-	  }
-	  p {font-size: 16px;}
-	  .margin {margin-bottom: 45px;}
-	  .bg-1 { 
-	    background-color: #1abc9c; /* Green */
-	    color: #ffffff;
-	  }
-	  .bg-2 { 
-	    background-color: #474e5d; /* Dark Blue */
-	    color: #ffffff;
-	  }
-	  .bg-3 { 
-	    background-color: #ffffff; /* White */
-	    color: #555555;
-	  }
-	  .bg-4 { 
-	    background-color: #2f2f2f; /* Black Gray */
-	    color: #fff;
-	  }
 	  .container-fluid-1 {
 	    padding-top: 70px;
 	    padding-bottom: 70px;
