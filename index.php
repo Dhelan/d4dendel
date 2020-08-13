@@ -74,7 +74,7 @@
 		<div class="row">
 			<div class="col-lg-12">
 				<div id="content">
-					<img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="HAPI" width="250" height="250">
+					<img src="d4dendel (5).jpg" class="img-responsive img-circle margin" style="display:inline" alt="HAPI" width="250" height="245">
 					<h2 id="wc" data-wow-delay="0.3s">HA<b style="color: #f97137;">PINO</b>WORRIES</h2>
 					<center><h4 style="width: 40%;">Connect with us by liking and following our facebook page, surely we can have an exciting adventure together!</h4></center>
 					<hr style="color: #000;">
