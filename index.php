@@ -17,13 +17,13 @@
 	<nav class="navbar navbar-inverse navbar-fixed-top">
 	  <div class="container-fluid">
 	    <div class="navbar-header">
-	      <a class="navbar-brand" href="#"><p>HA<b style="color: #267151;">PINO</b>WORRIES</p></a>
+	      <a class="navbar-brand" href="index.php"><p>HA<b style="color: #267151;">PINO</b>WORRIES</p></a>
 	    </div>
 	    <ul class="nav navbar-nav">
-	      <li><a href="#">HOME</a></li>
-	      <li class="active"><a href="#">BLOG</a></li>
-	      <li><a href="#">GALLERY</a></li>
-	      <li><a href="#">ABOUT</a></li>
+	      <li class="active"><a href="#">HOME</a></li>
+	      <li><a href="blog.php">BLOG</a></li>
+	      <li><a href="gallery.php">GALLERY</a></li>
+	      <li><a href="about.php">ABOUT</a></li>
 	    </ul>
 	  </div>
 	</nav>
