@@ -67,11 +67,11 @@
 			<hr class="hr-light wow fadeInLeft" data-wow-delay="0.3s">
 			<p class="wow fadeInLeft" data-wow-delay="0.3s">Connect with us by liking and following our facebook page, surely we can have an exciting adventure together</p>
 			<br>
-			<a href="https://www.facebook.com/d4dendel" class="btn btn-outline-white wow fadeInLeft" data-wow-delay="0.3s">Follow us</a>
+			<a href="https://www.facebook.com/d4dendel" class="btn btn-default fadeInLeft" data-wow-delay="0.3s">Follow us</a>
 		      </div>
 		    </div>
 
-		    <div class="col-lg-6 wow fadeIn">
+		    <div class="col-lg-4 wow fadeIn">
 		      <div class="embed-responsive embed-responsive-16by9 wow fadeInRight">
 			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f2cCLH0c40s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		      </div>
