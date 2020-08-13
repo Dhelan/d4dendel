@@ -103,6 +103,10 @@
 	  </a>
 	</div>
 	<!-- First Container -->
+	<!-- The video -->
+	<video autoplay muted loop id="myVideo">
+	  <source src="https://www.youtube.com/watch?v=MbxABgxA1z0" type="video/mp4">
+	</video>
 	<div class="container-fluid container-fluid-1 bg-1 text-center" >
 		<div class="row">
 			<div class="col-lg-12">
